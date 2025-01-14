@@ -20,7 +20,7 @@ JNotify is published under LGPL2.1.
 build/ - compilation files
 src/c/ - c sourcecode
 src/java/ - java sourcecode
-target/ - precompiled jni-libraries and jars
+target/ - precompiled jni-libraries and jar[ compiled with Java 6 ]
 makefile - compilation targets
 readme.txt - this file
 epl.html - License notes
