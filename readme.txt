@@ -44,5 +44,5 @@ $subtree = 0 no subfolders, 1 with subfolders.
 $eventmask = 1 file created, 2 file deleted, 4 file modified, 8 file renamed, 15 all event(deafult)s.
 
 
-Matthias Zitzen, 11.02.2012 m.zitzen@o-notation.org
+mz, 11.02.2012 kontakt@o-notation.org
 http://jnotify.o-notation.org
