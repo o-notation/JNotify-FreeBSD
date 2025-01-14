@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: hand
+Main-Class: net.contentobjects.jnotify.JNotify
+Class-Path: 
+
